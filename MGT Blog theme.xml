@@ -8,6 +8,15 @@
 <!-- MGS UPDATE 2026-08-18: Removed duplicate/extra search box from search results page (main header search and mobile overlay preserved) -->
 <!-- MGS UPDATE 2026-08-18: Filters now display only on index pages except homepage (label, search, archive) - hidden on homepage, posts, and static pages -->
   <!-- Google tag (gtag.js): loaded only after cookie Accept &#8212; see TASK#5 -->
+    <!-- Google tag (gtag.js) -->
+<script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-GCD3W9TV5F'/>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;G-GCD3W9TV5F&#39;);
+</script>
 <meta content='8TlBFI1yyLOeYuXNbLcid_AGcbosQc6ZU37qcmnWl8w' name='google-site-verification'/>
 <!-- DNS Prefetch for Speed -->
 <link href='//fonts.googleapis.com' rel='dns-prefetch'/>
